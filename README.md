@@ -1,7 +1,7 @@
 # Euro2024
-Code and exercises about Euro 2024
+Code and exercises about Euro 2024 - Data Analytics
 
-ENG - In this repository, you will find some projects that I develop in Python about  Euro 2024
+ENG - In this repository, you will find some projects that I develop in Python about Euro 2024
 
 ES - En este repositorio, encontrarás algunos proyectos que desarrollé en Python sobre el tema del Euro 2024
 
